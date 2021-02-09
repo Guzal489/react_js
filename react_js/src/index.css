@@ -44,13 +44,10 @@ ul.header {
     background-color: black;
     font-size: 17px;
     width: 100px;
+    padding-top: 15px;
 }
 .Articles a
 {
     text-decoration: none;
     color: white;
-}
-.articles_1
-{
-    padding-top: 10px;
 }
